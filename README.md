@@ -1,15 +1,15 @@
 # 🤖 Claude Academy Certificates
 
-This repository contains my completed **Claude Academy courses and certificates**, focused on understanding AI, Claude, and its capabilities.
+This repository contains my completed **Claude Academy courses**, focused on understanding AI, Claude, and its capabilities.
 
 ## 📜 Completed Courses
 
-| # | Course                              | Certificate                                               | Verification                                                                 |
-| - | ----------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| 1 | **Claude 101**                      | [View Certificate](.Claude-101.pdf.png)                      | [Verify](https://academy.claude.com/verify/9f21fe1b6ca4d51b9f4189bd04a8739c) |
-| 2 | **Introduction to Claude Cowork**   | [View Certificate](.Introduction-to-Claude-Cowork.pdf.png)   | [Verify](https://academy.claude.com/verify/23587805f2631ed8cf0799c0c8d16614) |
-| 3 | **AI Capabilities and Limitations** | [View Certificate](.AI-Capabilities-and-Limitations.pdf.png) | [Verify](https://academy.claude.com/verify/3516b7bb183dcdaf152aa7c53133655a) |
-| 4 | **Introduction to Claude Tag**      | [View Certificate](.Introduction-to-Claude-Tag.pdf.png)      | [Verify](https://academy.claude.com/verify/a8d37813382ecfc671739944d98761bf) |
+| # | Course                              | Verification                                                                             |
+| - | ----------------------------------- | ---------------------------------------------------------------------------------------- |
+| 1 | **Claude 101**                      | [Verify Certificate](https://academy.claude.com/verify/9f21fe1b6ca4d51b9f4189bd04a8739c) |
+| 2 | **Introduction to Claude Cowork**   | [Verify Certificate](https://academy.claude.com/verify/23587805f2631ed8cf0799c0c8d16614) |
+| 3 | **AI Capabilities and Limitations** | [Verify Certificate](https://academy.claude.com/verify/3516b7bb183dcdaf152aa7c53133655a) |
+| 4 | **Introduction to Claude Tag**      | [Verify Certificate](https://academy.claude.com/verify/a8d37813382ecfc671739944d98761bf) |
 
 ## 🎯 What I Learned
 
